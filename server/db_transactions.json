@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 45000,
+      "id": 1
+    },
+    {
+      "name": "family expense",
+      "type": "expense",
+      "amount": 20000,
+      "id": 2
+    }
+  ]
+}
